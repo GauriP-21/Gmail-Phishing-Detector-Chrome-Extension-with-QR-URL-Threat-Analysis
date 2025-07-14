@@ -1,2 +1,1 @@
-# Gmail-Phishing-Detector-Chrome-Extension-with-QR-URL-Threat-Analysis
-A Chrome extension that scans Gmail emails to detect phishing URLs and QR codes using machine learning (Random Forest, SVM) and Google Safe Browsing API. Flags threats in real time and labels suspicious emails automatically using the Gmail API.
+A browser-based phishing detection system that scans Gmail emails in real-time to identify and flag malicious content. This project integrates machine learning, image processing, and threat intelligence APIs to detect both traditional phishing URLs and QR code–embedded phishing links. Built as a Chrome extension with a Flask-powered Python backend, the tool automatically classifies suspicious emails and moves them to a "Phishing" label in the user's inbox.
